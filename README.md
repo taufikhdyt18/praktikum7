@@ -10,7 +10,7 @@ DOSEN   : Agung Nugroho, S.Kom., M.Kom.
 ```
 
 
-![gambar_tugas](screenshot/Soal%20Tabel.png)
+![gambar_tugas](screenshot/ss14.png)
 
 ***Query MySQL Pada Tabel Perusahaan***
 
